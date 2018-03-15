@@ -107,6 +107,6 @@ body, html { font-family: Arial, Helvetica, sans-serif; }
 .no-border { border: none !important; }
 .no-wrap { white-space: nowrap; }
 .bold { font-weight: bold; }
-.badge-success { background-color: #007400; }
-.badge-warning { background-color: #ff0000; }   
-.badge-primary { background-color: #1569ab; }
+.badge-success { background-color: green; }
+.badge-warning { background-color: red; }   
+.badge-primary { background-color: #1F75B2; }
