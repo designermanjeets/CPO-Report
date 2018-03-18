@@ -1,0 +1,74 @@
+[
+    {
+        "$qualificationAndrecords" : [
+            { "heading": "15 MODEL YEARS OR NEWER" },
+            { "heading": "UNDER 150,000 MILES" },
+            { "heading": "FREE OF NON-OEM MODIFCATIONS" },
+            { "heading": "CLEAN TITLE" },
+            { "heading": "REGISTRATION CURRENT" },
+            { "heading": "SERVICE RECORDS AVAILABLE" },
+            { "heading": "OWNERS MANUAL AVAILABLE" }
+        ]
+    },
+    {
+        "$exteriorAndWalkAround" : [
+            { "heading": "PAINT SURFACE CONDITION IS GOOD AND FREE OF IMPROPER PAINT REPAIRS" },
+            { "heading": "BODY PANEL ALIGNMENT" },
+            { "heading": "NO CRACKED OR BROKEN EXTERIOR LIGHT LENSES" },
+            { "heading": "DOORS OPEN AND CLOSE PROPERLY" },
+            { "heading": "FRONT GRILL | COWL | VENT PANEL" },
+            { "heading": "LUGGAGE COMPARTMENT LATCH AND LIGHT OPERATIONAL" },
+            { "heading": "GLASS FREE OF CRACKS, STARS AND LARGE CHIPS" },
+            { "heading": "WHEEL COVERS | RIMS PRESENT AND SECURE, FREE OF EXCESSIVE DAMAGE" },
+            { "heading": "WINDOW TINTING CLEAR" },
+            { "heading": "FUEL CAP PRESENT AND FUEL DOOR RELEASE OPERATIONAL" },
+            { "heading": "FRONT AND REAR WIPER ARM AND BLADE IN GOOD CONDITION" },
+            { "heading": "TRUCK BED IS IN GOOD CONDITION; LINER SECURE" },
+            { "heading": "TAILGATE OPERATIONAL" }
+        ]
+    },
+    {
+        "$interiorAndSafety" : [
+            { "heading": "AC AND HEATER OPERATIONAL AND BLOWS COLD AND HOT" },
+            { "heading": "AIRBAGS PRESENT & NO EVIDENCE OF DEPLOYMENT" },
+            { "heading": "AUDIO SPEAKERS DO NOT RATTLE AT HIGH VOLUME" },
+            { "heading": "AUDIO | CD | AUX SYSTEM OPERATIONAL" },
+            { "heading": "BACKUP CAMERA OPERATIONAL" },
+            { "heading": "CIGARETTE LIGHTER PRESENT AND OPERATIONAL" },
+            { "heading": "CLOCK OPERATIONAL" },
+            { "heading": "DOME & COURTESY LIGHTS OPERATIONAL" },
+            { "heading": "DOOR LOCKS AND HANDLE, INCLUDING CHILD SAFETY LOCKS, OPERATIONAL" },
+            { "heading": "EMERGENCY FLASHERS OPERATIONAL" },
+            { "heading": "EXTERIOR LIGHTS AND SIGNALS OPERATIONAL" },
+            { "heading": "EXTERIOR MIRROR CONTROLS OPERATIONAL" },
+            { "heading": "FRONT AND REAR WINDSHIELD DEFOGGER LIGHT AND OPERATIONS" },
+            { "heading": "FRONT AND REAR WIPERS OPERATIONAL" },
+            { "heading": "HEADLINER, SUN VISOR, DASH PAD, UPHOLSTERY, CARPET, FLOOR MATS, CONSOLE, CUP HOLDERS ARE IN PLACE AND IN GOOD CONDITION" },
+            { "heading": "HEADREST OPERATIONAL" },
+            { "heading": "HORN OPERATIONAL" },
+            { "heading": "INSTRUMENT PANEL / WARNING LIGHTS OPERATIONAL" },
+            { "heading": "INTERIOR LEATHER, VINYL, PLASTIC, CARPET, AND FABRIC SURFACES FREE OF HOLES, RIPS, TEARS, EXCESSIVE WEAR AND FADING" },
+            { "heading": "MASTER KEY AND KEYLESS SMART KEY OPERATIONAL" },
+            { "heading": "NAVIGATION SYSTEM OPERATIONALMASTER KEY AND KEYLESS SMART KEY OPERATIONAL" },
+            { "heading": "PARKING BRAKE OPERATIONAL" },
+            { "heading": "POWER WINDOWS OPERATIONAL" },
+            { "heading": "REAR VIEW MIRROR OPERATIONAL" },
+            { "heading": "SEAT CONTROLS OPERATIONAL" },
+            { "heading": "SEATBELTS OPERATIONAL" },
+            { "heading": "SUNROOF | CONVERTIBLE TOP OPERATIONAL" },
+            { "heading": "TILT STEERING COLUMN OPERATIONAL" }
+        ]
+    },
+    {
+        "$underhood" : [
+            { "heading": "NO VISIBLE FLUID LEAKS" },
+            { "heading": "DRIVE BELTS AND HOSES FREE OF CRACKS AND DAMAGE" },
+            { "heading": "BATTERY SECURE; POSTS AND CABLES FREE OF DAMAGE AND CORROSION" },
+            { "heading": "ENGINE COOLANT LEVEL AND CONDITION" },
+            { "heading": "ENGINE OIL LEVEL AND CONDITION" },
+            { "heading": "BRAKE, CLUTCH, TRANSMISSION, POWER STEERING, AND WASHER FLUID LEVELS WITHIN SPECIFICATION" },
+            { "heading": "HOOD STAY, SUPPORT ROD, LATCH & HINGES OPERATIONAL" },
+            { "heading": "NO ABNORMAL ENGINE NOISE" }
+        ]
+    }
+]

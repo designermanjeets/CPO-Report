@@ -1,0 +1,112 @@
+body, html { font-family: Arial, Helvetica, sans-serif; }
+.navbar-light .navbar-nav .nav-link, 
+.navbar-light .navbar-nav .nav-link:hover, 
+.navbar-light .navbar-nav .nav-link.active, 
+.navbar-light .navbar-nav .nav-link:focus { color: #fff; }
+
+.headwithicon { font-size: 1.5rem; color: #fff; background-color: #162d52; line-height: 55px; font-weight: bold; }
+.headwithicon .imgwrap { position: relative; margin: -10px 10px -10px 0; display: inline-block; vertical-align: top; }
+.headwithicon a.pdf { font-size: 14px; font-weight: normal; float: right; color: #fff; margin-right: 15px; background: url('./assets//pdf.png') no-repeat right center; padding-right: 35px; background-size: 30px 30px; }
+.subheadwithicon { font-size: 1.5rem; line-height: 60px; font-weight: bold; }
+.subheadwithicon .imgwrap { vertical-align: top; margin-right: 15px; display: inline-block; }
+.subheadwithicon .imgwrap img { max-width: 55px; }
+
+.basicinfo { border-bottom: 2px solid #162d52; border-right: 2px solid #162d52; margin-top: -2px; }
+.basicinfo .col { border-left: 2px solid #162d52; border-top: 2px solid #162d52; padding: 10px; padding-top: 5px }
+.basicinfo label { font-weight: bold; display: block; }
+.basicinfo span { display: block; background-color: #b4c7e7; color: #000; padding: 3px; }
+
+.congo span { font-size: 1.7rem; font-weight: bold; }
+.para { font-size: 19px; }
+
+.list-tick li { background: url('./assets//tick.gif') no-repeat left center; padding: 2px 0; padding-left: 30px; }
+.saleguy { position: absolute; right: 0; top:0; }
+
+
+.probchecked { background-color: #4472c4; font-weight: bold; font-size: 17px; padding: 6px 10px; }
+.probchekdrow { padding-left: 20px; }
+.probchekdrow li { margin-bottom: 10px; }
+
+.otherchecks h5 { font-size: 1.2rem; color: #fff; background-color: #162d52; line-height: 50px; font-weight: bold; padding: 0 15px; margin-bottom: 0; }
+.recordsrow .col { border-left: 2px solid #162d52; border-bottom: 2px solid #162d52; padding: 10px; text-overflow: ellipsis; overflow: hidden; }
+.recordsrow .col:nth-child(1) { border-left: 0; }
+
+.inspectionwrap > .container > .row { background-color: #f2f2f2; border-bottom: 1px solid #fff; padding-top: 8px; }
+
+.conditionalReportCard { margin-bottom: 35px; }
+.conditionalReportCard .badge {text-indent: -99999px; border-radius: 0; width: 34%; height: 43px; margin: 0; float: left; margin-left: -2px; }
+.conditionalReportCard .card-header { padding: 0 12px 0 14px; }
+.conditionalReportCard .card-header h5:not(.nobghead) { padding-top: 10px; background-color: #162d52; color: #fff; }
+.conditionalReportCard .card-header h5.nobghead { padding: 10px; text-transform: capitalize; font-weight: bold }
+.conditionalReport { padding: 0 15px;  }
+.conditionalReport > .row { border-bottom: 1px solid #ccc; }
+.conditionalReport > .row > .col { border-left: 1px solid #ccc; padding-top: 12px; padding-bottom: 3px; }
+.conditionalReport > .row:nth-last-child(1) { border-bottom: none; }
+.conditionalReport > .row > .col:nth-child(1) { border-left: 0; }
+.custom-control-inline { margin-left: 7px; }
+
+.subheaderblue { background-color: #4472c4; font-weight: bold; font-size: 17px; padding: 6px 10px; }
+
+.infowiththumb p { border-bottom: 1px solid #ddd; padding: 10px 0; margin: 0; font-size: 14px; }
+.infowiththumb p label { margin-bottom: 0; padding-right: 10px; }
+
+.thumbwraps > .row { margin-top: 25px; margin-bottom: 25px; }
+.thumbwraps > .row > .col:nth-child(even) h5 { text-align: right;  }
+.thumbwraps .card-body { padding: 0; }
+.thumbwraps .card-body h5 { background-color: rgba(0, 0, 0, 0.5); position: relative; margin: 1px; padding: 15px; text-transform: uppercase; margin-top: -55px; color: #fff; }
+
+.coveredlist li { font-size: 18px; margin: 3px 0; color: #000; }
+.coveredwrap { text-align: center; }
+.coveredwrap img { border: 5px solid #4472c4; display: inline-block; width: 600px; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media all and (max-width: 991px) {
+    .custom-control-inline { margin-left: -7px; }
+    .conditionalReportCard .badge { width: 34.5%; }
+}
+
+@media all and (max-width: 768px) {
+    body { font-size: 14px; }
+    h5 { font-size: 17px; }
+    .congo span, .subheadwithicon { font-size: 1.2rem; }
+    .subheadwithicon .imgwrap img { max-width: 40px; }
+    .thumbwraps .card-body h5 { margin-top: -50px; }
+}
+
+@media all and (max-width: 576px) {
+    .headwithicon { font-size: 1rem; line-height: 35px; }
+    .headwithicon .imgwrap { margin-top: -6px; max-width: 46px; }
+    .headwithicon .imgwrap img { max-width: 100%; }
+    .congo span, .subheadwithicon { font-size: 1rem; }
+    .para { font-size: 15px; }
+    .conditionalReportCard .badge { width: 33%; margin-left: 0; }
+    .recordsrow .col:nth-child(1) { border-left: 2px solid #162d52; }
+}
+
+@media all and (max-width: 479px) { 
+    .thumbwraps .card-body h5 { margin-top: -30px; font-size: .9rem; padding: 7px 10px; }
+    .headweartear { font-size: .9rem }
+    .otherchecks h5 { line-height: normal; padding-top: 10px; padding-bottom: 10px; font-size: 1rem; }
+}
+
+/*********Common Classes***********/
+.bg-suresale-blue { background-color: #162d52 }
+.text-white { color: #fff; }
+.pos-rel { position: relative; }
+.no-border { border: none !important; }
+.no-wrap { white-space: nowrap; }
+.bold { font-weight: bold; }
+.badge-success { background-color: green; }
+.badge-warning { background-color: red; }   
+.badge-primary { background-color: #1F75B2; }
