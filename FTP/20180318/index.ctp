@@ -1548,21 +1548,22 @@ body, html { font-family: Arial, Helvetica, sans-serif; }
 </style>
   
 <body>
-    <div>
-    
-
-  <table width="100%" cellspacing="0" cellpadding="0" border="0">
-    <tr>
-      <td width="70%">
-        <img style="float:left; vertical-align:top;" src="http://dev.suresale.com/CPO-Report-master/HTML/20180315/img/thumb-icon.gif" alt="">
-        <h2 style="background-color:#162d52; float:left; height:59px; line-height:59px; color:#fff; vertical-align:top; margin:10px 0 0 0;">CERTIFIED PRE-OWNED REPORT</h2>
-      </td>
-      <td bgcolor="#162d52"><a href="#">Download Report <img src="http://dev.suresale.com/CPO-Report-master/HTML/20180315/img/pdf.png" alt=""></a></td>
-    </tr>
-  </table>
-
+    <section>
+    <nav class="navbar navbar-expand-lg navbar-light bg-suresale-blue text-white">
+        <ul class="navbar-nav"> 
+          <li class="nav-item">
+            <a class="nav-link" href="#">CPO Report</a>
+          </li>
+        </ul>
+    </nav>
+    <section class="container my-3 pt-3">
+      <h2 class="headwithicon">
+        <span class="imgwrap"><img src="http://dev.suresale.com/CPO-Report-master/HTML/20180315/img/thumb-icon.gif" alt=""></span>
+        CERTIFIED PRE-OWNED REPORT
+        <a href="#" class="pdf">Download Report</a>
+      </h2>
       <div class="mt-3 pt-3"></div>
-      <div class="row mt-3 text-center basicinfo no-gutters">
+      <section class="row mt-3 text-center basicinfo no-gutters">
         <div class="col col-md-3">
           <label>Year</label>
           <span>2013</span>
@@ -1579,8 +1580,8 @@ body, html { font-family: Arial, Helvetica, sans-serif; }
           <label>VIN</label>
           <span>1HGCRF2F35D7769</span>
         </div>
-      </div>
-      <div class="row text-center basicinfo no-gutters">
+      </section>
+      <section class="row text-center basicinfo no-gutters">
         <div class="col col-md-6">
           <label>Trim</label>
           <span>LX Sedan CVT</span>
@@ -1589,29 +1590,29 @@ body, html { font-family: Arial, Helvetica, sans-serif; }
           <label>Engine</label>
           <span>2.4L L4 DOCH 16V</span>
         </div>
-      </div>
-      <div class="congo my-3 para">
+      </section>
+      <section class="congo my-3 para">
         <span>This Honda Accord is SureSale Certified.</span> All SureSale vehicles have gone through a rigorous process to provide you with peace of mind and purchasing confidence.
-      </div>
-      <div class="my-3 para">
+      </section>
+      <section class="my-3 para">
          <h3 class="subheadwithicon"><span class="imgwrap"><img src="http://dev.suresale.com/CPO-Report-master/HTML/20180315/img/subhead-thumb.gif" alt=""></span>Clean VIN and Peace of Mind</h3>
          <p>Buyer and seller peace of mind starts with an honest discussion about the vehicle. To kickstart this, SureSale checks the vehicle&rsquo;s title for over 75 different problems.  Only vehicles with clean titles become SureSale Certified, check the results below.</p>
-      </div>
-      <div class="my-3 para">
+      </section>
+      <section class="my-3 para">
          <h3 class="subheadwithicon"><span class="imgwrap"><img src="http://dev.suresale.com/CPO-Report-master/HTML/20180315/img/subhead-search.gif" alt=""></span>Condition Report</h3>
          <p>We have inspected the vehicle, and provided you with a comprehensive condition report.  We checked over 100 items, and documented any visible issues.  Check the results below.</p>
-      </div>
-      <div class="my-3 para">
+      </section>
+      <section class="my-3 para">
          <h3 class="subheadwithicon"><span class="imgwrap"><img src="http://dev.suresale.com/CPO-Report-master/HTML/20180315/img/subhead-warrn.gif" alt=""></span>5-Month 5,000-mile Limited Warranty</h3>
          <p>We are so confident in our selling process that we back it with a comprehensive Limited Warranty. This protection gives you the added assurance to know your SureSale vehicle is protected.</p>
-      </div>
+      </section>
       
       
-    </div>
-    <div class="container my-3 pt-3">
+    </section>
+    <section class="container my-3 pt-3">
         <h2 class="headwithicon"><span class="imgwrap"><img src="http://dev.suresale.com/CPO-Report-master/HTML/20180315/img/thumb-icon.gif" alt=""></span>VIN CHECK AND TITLE REPORT<a href="#" class="pdf">Download Report</a></h2>
         <div class="mt-3 pt-3"></div>
-        <div class="row mt-3 text-center basicinfo no-gutters">
+        <section class="row mt-3 text-center basicinfo no-gutters">
           <div class="col col-md-3">
             <label>Year</label>
             <span>2013</span>
@@ -1628,8 +1629,8 @@ body, html { font-family: Arial, Helvetica, sans-serif; }
             <label>VIN</label>
             <span>1HGCRF2F35D7769</span>
           </div>
-        </div>  
-        <div class="row text-center basicinfo no-gutters">
+        </section>  
+        <section class="row text-center basicinfo no-gutters">
           <div class="col col-md-6">
             <label>Trim</label>
             <span>LX Sedan CVT</span>
@@ -1638,35 +1639,35 @@ body, html { font-family: Arial, Helvetica, sans-serif; }
             <label>Engine</label>
             <span>2.4L L4 DOCH 16V</span>
           </div>
-        </div>        
+        </section>        
         
-      </div>    
-    <div class="container my-3 pt-3">
+      </section>    
+    <section class="container my-3 pt-3">
         <h2 class="headwithicon"><span class="imgwrap"><img src="http://dev.suresale.com/CPO-Report-master/HTML/20180315/img/thumb-icon.gif" alt=""></span>SURESALE CONDITION REPORT<a href="#" class="pdf">Download Report</a></h2>
         <div class="mt-3 pt-3"></div>
           
                
-        <div class="inspectionwrap my-3 py-3">
-            <div class="container">
+        <section class="inspectionwrap my-3 py-3">
+            <section class="container">
               
-              <div class="row">
+              <section class="row">
                 <div class="col col-sm-6 col-12">
                     <label class="col-md-6 col-sm-8 col-8 no-wrap bold">Interior Color:</label>Black
                 </div>
                 <div class="col col-sm-6 col-12">
                     <label class="col-md-6 col-sm-8 col-8 no-wrap bold">Exterior Color:</label>Silver
                 </div>
-              </div>
-              <div class="row">
+              </section>
+              <section class="row">
                 <div class="col col-sm-6 col-12">
                     <label class="col-md-6 col-sm-8 col-8 no-wrap bold">Body Type:</label>Covertible
                 </div>
                 <div class="col col-sm-6 col-12">
                     <label class="col-md-6 col-sm-8 col-8 no-wrap bold">One Owner Vehicle:</label>Yes
                 </div>
-              </div>
-          </div>
-        </div>
+              </section>
+          </section>
+        </section>
         <div class="card conditionalReportCard">
           <div class="card-header">
             <div class="row">
@@ -1699,11 +1700,11 @@ body, html { font-family: Arial, Helvetica, sans-serif; }
           </div>
           <div class="card-body conditionalReport" id="exteriorAndWalkAround"></div>
         </div>
-      </div>            
-    <div class="container my-3 pt-3">
+      </section>            
+    <section class="container my-3 pt-3">
       <h2 class="headwithicon"><span class="imgwrap"><img src="http://dev.suresale.com/CPO-Report-master/HTML/20180315/img/thumb-icon.gif" alt=""></span>SURESALE CONDITION REPORT<a href="#" class="pdf">Download Report</a></h2>
       <div class="mt-3 pt-3"></div>
-      <div class="row mt-3 text-center basicinfo no-gutters">
+      <section class="row mt-3 text-center basicinfo no-gutters">
         <div class="col col-md-3">
           <label>Year</label>
           <span>2013</span>
@@ -1720,8 +1721,8 @@ body, html { font-family: Arial, Helvetica, sans-serif; }
           <label>VIN</label>
           <span>1HGCRF2F35D7769</span>
         </div>
-      </div>
-      <div class="row text-center basicinfo no-gutters">
+      </section>
+      <section class="row text-center basicinfo no-gutters">
         <div class="col col-md-6">
           <label>Trim</label>
           <span>LX Sedan CVT</span>
@@ -1730,7 +1731,7 @@ body, html { font-family: Arial, Helvetica, sans-serif; }
           <label>Engine</label>
           <span>2.4L L4 DOCH 16V</span>
         </div>
-      </div>      
+      </section>      
       <div class="mt-3 pt-3"></div>
       <div class="card conditionalReportCard">
         <div class="card-header">
@@ -1764,11 +1765,11 @@ body, html { font-family: Arial, Helvetica, sans-serif; }
           </div>
           <div class="card-body conditionalReport" id="interiorAndSafety"></div>
         </div>
-    </div>
-    <div class="container my-3 pt-3">
+    </section>
+    <section class="container my-3 pt-3">
       <h2 class="headwithicon"><span class="imgwrap"><img src="http://dev.suresale.com/CPO-Report-master/HTML/20180315/img/thumb-icon.gif" alt=""></span>SURESALE CONDITION REPORT<a href="#" class="pdf">Download Report</a></h2>
       <div class="mt-3 pt-3"></div>
-      <div class="row mt-3 text-center basicinfo no-gutters">
+      <section class="row mt-3 text-center basicinfo no-gutters">
         <div class="col col-md-3">
           <label>Year</label>
           <span>2013</span>
@@ -1785,8 +1786,8 @@ body, html { font-family: Arial, Helvetica, sans-serif; }
           <label>VIN</label>
           <span>1HGCRF2F35D7769</span>
         </div>
-      </div>
-      <div class="row text-center basicinfo no-gutters">
+      </section>
+      <section class="row text-center basicinfo no-gutters">
         <div class="col col-md-6">
           <label>Trim</label>
           <span>LX Sedan CVT</span>
@@ -1795,7 +1796,7 @@ body, html { font-family: Arial, Helvetica, sans-serif; }
           <label>Engine</label>
           <span>2.4L L4 DOCH 16V</span>
         </div>
-      </div> 
+      </section> 
       <br>
       <div class="card conditionalReportCard">
           <div class="card-header">
@@ -1814,10 +1815,10 @@ body, html { font-family: Arial, Helvetica, sans-serif; }
           </div>
           <div class="card-body conditionalReport" id="interiorAndSafety2"></div>
         </div>
-        <div class="infowiththumb">
+        <section class="infowiththumb">
           <h5 class="subheaderblue text-uppercase text-center text-white">Wear and Tear</h5>
-          <div class="row">
-            <div class="col col-sm-6">
+          <section class="row">
+            <section class="col col-sm-6">
                 <div class="row text-uppercase">
                   <div class="col col-md-6 col-12">
                     <p><label><b>Location:</b></label>Rear Right</p>
@@ -1828,8 +1829,8 @@ body, html { font-family: Arial, Helvetica, sans-serif; }
                     <img class="img-fluid" src="http://dev.suresale.com/CPO-Report-master/HTML/20180315/img/rear_mirror.gif" alt="">
                   </div>
                 </div>
-            </div>
-            <div class="col col-sm-6">
+            </section>
+            <section class="col col-sm-6">
                 <div class="row text-uppercase">
                   <div class="col col-md-6 col-12">
                     <p><label><b>Location:</b></label>Right Side</p>
@@ -1840,15 +1841,16 @@ body, html { font-family: Arial, Helvetica, sans-serif; }
                     <img class="img-fluid" src="http://dev.suresale.com/CPO-Report-master/HTML/20180315/img/grill.gif" alt="">
                   </div>
                 </div>
-            </div>
-          </div>
-        </div>
-    </div>
+            </section>
+          </section>
+        </section>
+    </section>
     
     
-  </div>
+  </section>
 </body>  
 EOF;
+
 
 
 //echo $html;die;
